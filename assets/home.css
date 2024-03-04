@@ -1,0 +1,31 @@
+/* .carousel-item img{
+    height: calc(100vh - 201px);
+    object-fit: cover;
+    width: 100%;
+}
+
+.lh-3{
+    line-height: 2;
+}
+.circle-4{
+    border-radius: 40px;
+}
+
+@media screen and (max-width:600px) {
+    .carousel-item img{
+      height: 100%;
+    }
+} */
+
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.row{
+    background-color: aqua;
+}
+.column{
+    
+} */
